@@ -1,0 +1,6 @@
+{
+  "name": "Kariyer & Mülakat Koçu",
+  "description": "Mülakat katılımcısının unvanına özel soru ve taktik üreten, interaktif deneme mülakatı yaptıran ve eğitim geçmişini analiz ederek sonraki adım sertifika ve kurs yol haritası çıkaran yapay zeka koçu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
